@@ -1,1 +1,3 @@
-# Plyago-Pavel
+# Plyago Pavel
+
+# Начинающий IOS разработчик
