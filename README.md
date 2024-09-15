@@ -13,7 +13,7 @@
 
 Мои проекты:
 - [Итоговый проект в OTUS](https://github.com/PlPavel/OTUS_finalProject) (Swift, API Spotify, SnapKit, FireBase)
-- [ToDoList](https://github.com/PlPavel/ToDoList):Список задач (Swift, CoreData, FireBase, Поведенческие паттерны)
+- [ToDoList](https://github.com/PlPavel/ToDoList): Список задач (Swift, CoreData, FireBase, Поведенческие паттерны)
 - [OperationQueue](https://github.com/PlPavel/OperationQueue) (Swift, потоки, Структурные паттерны)
 - [CleanSwift](https://github.com/PlPavel/CleanSwift) (Swift, SOLID)
 - [Работа с API](https://github.com/PlPavel/Codable) (Swift, API, Структурные паттерны)
