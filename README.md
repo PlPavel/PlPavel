@@ -26,5 +26,5 @@
 
 Контактная информация:
 - [ВК](https://vk.com/id352302361)
-- [Telegram](https://t.me/PlyashaPago)
+- [Telegram](https://t.me/pplyago)
 - Email: [plyagopavel@gmail.com](mailto:plyagopavel@gmail.com)
