@@ -10,6 +10,7 @@
 - Инструменты: Git
 
 Мои проекты:
+- [Дипломная работа](https://github.com/PlPavel/Diplom) (Swift, AVFoundation, Core ML, Vision, GitLab, CI/CD)
 - [Music App](https://github.com/PlPavel/OTUS_finalProject) (Swift, API Spotify, SnapKit, FireBase)
 - [ToDoList](https://github.com/PlPavel/ToDoList): Список задач (Swift, CoreData, FireBase, Поведенческие паттерны)
 - [OperationQueue](https://github.com/PlPavel/OperationQueue) (Swift, потоки, Структурные паттерны)
